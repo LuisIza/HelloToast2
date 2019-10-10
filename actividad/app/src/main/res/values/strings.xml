@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">actividad</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="click_me">Click Me...!!!</string>
+    <string name="segunda_actividad">Segunda Actividad</string>
+    <string name="primer_boton">PRIMER BOTON</string>
+</resources>
