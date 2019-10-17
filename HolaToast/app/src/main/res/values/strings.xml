@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="action_settings">Settings</string>
+    <string name="visor">0</string>
+    <string name="btn_toast">TOAST</string>
+    <string name="btn_count">COUNT</string>
+    <string name="txt_view">0</string>
+</resources>
